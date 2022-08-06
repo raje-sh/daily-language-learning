@@ -1,6 +1,9 @@
 [
   {
-    "id": "hello"
+    "id": "hello",
+    "results": [
+      "hello"
+    ]
   },
   {
     "id": "kwlkelw"
